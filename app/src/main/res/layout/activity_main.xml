@@ -27,14 +27,16 @@
             android:layout_height="wrap_content"
             android:text="\nJHANDEL K. SEMION"
             android:textSize="24sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Network Security Specialist\n\n\n\n\n\n\n\n\n\n\n\n"
             android:textSize="15sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
 
         <Button
             android:layout_width="wrap_content"
@@ -55,8 +57,7 @@
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/email"
             android:text="semionjk****@gmail.com"
-            android:textSize="17sp"
-            />
+            android:textSize="17sp"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
